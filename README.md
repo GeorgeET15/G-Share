@@ -1,6 +1,6 @@
 # G Share
 
-A simple and [pwerful app for sharing files easily
+A simple and powerful app for sharing files easily
 
 # Files can be shared using 
    
